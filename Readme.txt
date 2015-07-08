@@ -1,2 +1,2 @@
-Several C projects done for a class
+Several small C projects done for a class
 
