@@ -1,1 +1,2 @@
-Single file c projects
+Several C projects done for a class
+
