@@ -1,5 +1,5 @@
 /*This program takes in data files with the ranking of the most popular baby names for the given year
-sorts them, and outputs the data into a csv file*/
+sorts them using bubble sort, and outputs the data into a csv file*/
 #include <stdio.h> 
 #include <string.h>
 
